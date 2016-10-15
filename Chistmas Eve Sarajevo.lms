@@ -2,48 +2,31 @@
 <sequence saveFileVersion="14" createdAt="12/3/2015 11:30:46 AM" musicAlbum="Christmas Eve And Other Stories" musicArtist="Trans-Siberian Orchestra" musicFilename="C:\Documents and Settings\Justin\Desktop\Dancing LIghts\08 Christmas Eve (Sarajevo 12_24).mp3" musicTitle="Christmas Eve (Sarajevo 12/24)" videoUsage="2">
 	<channels>
 		<channel name="Roof W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="1" savedIndex="0">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3260" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3996" endCentisecond="4042" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4042" endCentisecond="4142" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3942" endCentisecond="3994" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="4717" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5536" endCentisecond="5586" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5586" endCentisecond="5636" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5733" endCentisecond="5780" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5780" endCentisecond="5830" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5927" endCentisecond="5974" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5974" endCentisecond="6021" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="5586" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6837" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="7031" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6743" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7031" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7240" endCentisecond="7307" intensity="100"/>
 			<effect type="intensity" startCentisecond="7432" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7894" endCentisecond="7928" intensity="100"/>
-			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
 			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
-			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8642" endCentisecond="8673" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8673" endCentisecond="8905" startIntensity="100" endIntensity="0"/>
@@ -59,80 +42,50 @@
 			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12533" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12918" endCentisecond="13014" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13014" endCentisecond="13111" startIntensity="0" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="13111" endCentisecond="13207" intensity="100"/>
-			<effect type="intensity" startCentisecond="13207" endCentisecond="13303" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13784" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13977" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14073" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="13688" endCentisecond="14073" startIntensity="0" endIntensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14472" endCentisecond="14479" intensity="100"/>
 			<effect type="intensity" startCentisecond="14624" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14671" endCentisecond="14678" intensity="100"/>
 			<effect type="intensity" startCentisecond="14823" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14962" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15258" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15451" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16023" endCentisecond="16030" intensity="100"/>
-			<effect type="intensity" startCentisecond="16175" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16222" endCentisecond="16229" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14962" endCentisecond="15134" intensity="100"/>
+			<effect type="intensity" startCentisecond="15258" endCentisecond="15324" intensity="100"/>
+			<effect type="intensity" startCentisecond="15451" endCentisecond="15518" intensity="100"/>
+			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16115" endCentisecond="16147" intensity="100"/>
+			<effect type="intensity" startCentisecond="16180" endCentisecond="16213" intensity="100"/>
+			<effect type="intensity" startCentisecond="16342" endCentisecond="16375" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16803" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16997" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17191" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17385" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16803" endCentisecond="16868" intensity="100"/>
+			<effect type="intensity" startCentisecond="16997" endCentisecond="17062" intensity="100"/>
+			<effect type="intensity" startCentisecond="17191" endCentisecond="17256" intensity="100"/>
+			<effect type="intensity" startCentisecond="17385" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="17482" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Roof M" color="13531551" centiseconds="20621" deviceType="LOR" unit="1" circuit="2" savedIndex="1">
-			<effect type="intensity" startCentisecond="69" endCentisecond="354" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="354" endCentisecond="499" intensity="50"/>
-			<effect type="intensity" startCentisecond="499" endCentisecond="651" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="651" endCentisecond="944" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="944" endCentisecond="1532" intensity="50"/>
-			<effect type="intensity" startCentisecond="1532" endCentisecond="1683" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="1683" endCentisecond="1970" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1970" endCentisecond="2414" intensity="50"/>
-			<effect type="intensity" startCentisecond="2414" endCentisecond="2564" startIntensity="50" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="25" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="69" endCentisecond="651" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="651" endCentisecond="1683" intensity="100"/>
+			<effect type="intensity" startCentisecond="1683" endCentisecond="1970" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1970" endCentisecond="2264" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="2264" endCentisecond="2564" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="2722" endCentisecond="3137" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4764" endCentisecond="4811" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4811" endCentisecond="4911" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5636" endCentisecond="5686" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5686" endCentisecond="5733" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5830" endCentisecond="5880" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5880" endCentisecond="5927" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6021" endCentisecond="6067" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6067" endCentisecond="6117" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="twinkle" startCentisecond="4042" endCentisecond="4430" intensity="100"/>
+			<effect type="twinkle" startCentisecond="4811" endCentisecond="5199" intensity="100"/>
+			<effect type="intensity" startCentisecond="5974" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6743" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="6931" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6837" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="6931" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7144" endCentisecond="7211" intensity="100"/>
 			<effect type="intensity" startCentisecond="7336" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
-			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
 			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8969" endCentisecond="9066" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9066" endCentisecond="9454" startIntensity="100" endIntensity="0"/>
@@ -140,77 +93,55 @@
 			<effect type="intensity" startCentisecond="10222" endCentisecond="10604" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10985" endCentisecond="11379" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="11379" endCentisecond="11760" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12533" endCentisecond="12629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12629" endCentisecond="12822" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="12822" endCentisecond="12918" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13399" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13592" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13688" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="12533" endCentisecond="12918" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="12918" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
 			<effect type="intensity" startCentisecond="14525" endCentisecond="14658" intensity="100"/>
 			<effect type="intensity" startCentisecond="14724" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15166" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15354" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16076" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16275" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="15166" endCentisecond="15229" intensity="100"/>
+			<effect type="intensity" startCentisecond="15354" endCentisecond="15422" intensity="100"/>
+			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16082" endCentisecond="16115" intensity="100"/>
+			<effect type="intensity" startCentisecond="16213" endCentisecond="16245" intensity="100"/>
+			<effect type="intensity" startCentisecond="16310" endCentisecond="16342" intensity="100"/>
 			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16900" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17094" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17288" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17482" endCentisecond="17547" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16900" endCentisecond="16965" intensity="100"/>
+			<effect type="intensity" startCentisecond="17094" endCentisecond="17159" intensity="100"/>
+			<effect type="intensity" startCentisecond="17288" endCentisecond="17353" intensity="100"/>
+			<effect type="intensity" startCentisecond="17482" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18528" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Pole W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="3" savedIndex="2">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3260" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4092" endCentisecond="4142" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4142" endCentisecond="4236" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3942" endCentisecond="3994" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="4717" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5733" endCentisecond="5780" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5780" endCentisecond="5830" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5927" endCentisecond="5974" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5974" endCentisecond="6021" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="5686" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6868" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="7064" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6774" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7064" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7233" endCentisecond="7307" intensity="100"/>
 			<effect type="intensity" startCentisecond="7425" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7894" endCentisecond="7928" intensity="100"/>
-			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
-			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
-			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
+			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8642" endCentisecond="8673" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8673" endCentisecond="8905" startIntensity="100" endIntensity="0"/>
@@ -226,150 +157,98 @@
 			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12533" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12918" endCentisecond="13014" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13014" endCentisecond="13207" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13207" endCentisecond="13303" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13784" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13977" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14073" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="13303" endCentisecond="13688" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="13688" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14466" endCentisecond="14485" intensity="100"/>
-			<effect type="intensity" startCentisecond="14591" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14665" endCentisecond="14684" intensity="100"/>
-			<effect type="intensity" startCentisecond="14790" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14957" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15252" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15445" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15546" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16017" endCentisecond="16036" intensity="100"/>
-			<effect type="intensity" startCentisecond="16142" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16216" endCentisecond="16235" intensity="100"/>
-			<effect type="intensity" startCentisecond="16341" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14558" endCentisecond="14658" intensity="100"/>
+			<effect type="intensity" startCentisecond="14757" endCentisecond="14856" intensity="100"/>
+			<effect type="intensity" startCentisecond="14957" endCentisecond="15134" intensity="100"/>
+			<effect type="intensity" startCentisecond="15252" endCentisecond="15324" intensity="100"/>
+			<effect type="intensity" startCentisecond="15445" endCentisecond="15518" intensity="100"/>
+			<effect type="intensity" startCentisecond="15546" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16049" endCentisecond="16082" intensity="100"/>
+			<effect type="intensity" startCentisecond="16180" endCentisecond="16213" intensity="100"/>
+			<effect type="intensity" startCentisecond="16278" endCentisecond="16310" intensity="100"/>
+			<effect type="intensity" startCentisecond="16375" endCentisecond="16407" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16793" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16987" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17181" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17375" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16793" endCentisecond="16868" intensity="100"/>
+			<effect type="intensity" startCentisecond="16987" endCentisecond="17062" intensity="100"/>
+			<effect type="intensity" startCentisecond="17181" endCentisecond="17256" intensity="100"/>
+			<effect type="intensity" startCentisecond="17375" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="17472" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18434" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
 		<channel name="Pole M" color="13531551" centiseconds="20621" deviceType="LOR" unit="1" circuit="4" savedIndex="3">
-			<effect type="intensity" startCentisecond="69" endCentisecond="354" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="354" endCentisecond="944" intensity="50"/>
-			<effect type="intensity" startCentisecond="944" endCentisecond="1094" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="1094" endCentisecond="1382" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1382" endCentisecond="1970" intensity="50"/>
-			<effect type="intensity" startCentisecond="1970" endCentisecond="2120" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="2120" endCentisecond="2414" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="2414" endCentisecond="2564" startIntensity="50" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="25" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="651" endCentisecond="1238" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1238" endCentisecond="2264" intensity="100"/>
+			<effect type="intensity" startCentisecond="2264" endCentisecond="2564" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="2722" endCentisecond="3137" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4862" endCentisecond="4911" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4911" endCentisecond="5005" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5830" endCentisecond="5880" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5880" endCentisecond="5927" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6021" endCentisecond="6067" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6067" endCentisecond="6117" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="twinkle" startCentisecond="4042" endCentisecond="4430" intensity="100"/>
+			<effect type="twinkle" startCentisecond="4811" endCentisecond="5199" intensity="100"/>
+			<effect type="intensity" startCentisecond="6067" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6774" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="6964" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6868" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="6964" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7137" endCentisecond="7211" intensity="100"/>
 			<effect type="intensity" startCentisecond="7329" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
-			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
-			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
-			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
+			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8969" endCentisecond="9066" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="9066" endCentisecond="9454" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10222" endCentisecond="10604" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="10604" endCentisecond="10985" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12533" endCentisecond="12629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12629" endCentisecond="12822" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="12822" endCentisecond="12918" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13399" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13592" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13688" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="12726" endCentisecond="13111" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="13111" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14492" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14691" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15160" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15348" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15546" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16043" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16242" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14459" endCentisecond="14624" intensity="100"/>
+			<effect type="intensity" startCentisecond="14624" endCentisecond="14658" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14658" endCentisecond="14856" intensity="100"/>
+			<effect type="intensity" startCentisecond="15160" endCentisecond="15229" intensity="100"/>
+			<effect type="intensity" startCentisecond="15348" endCentisecond="15422" intensity="100"/>
+			<effect type="intensity" startCentisecond="15546" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16016" endCentisecond="16049" intensity="100"/>
+			<effect type="intensity" startCentisecond="16147" endCentisecond="16180" intensity="100"/>
 			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16890" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17084" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17278" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17472" endCentisecond="17547" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16890" endCentisecond="16965" intensity="100"/>
+			<effect type="intensity" startCentisecond="17084" endCentisecond="17159" intensity="100"/>
+			<effect type="intensity" startCentisecond="17278" endCentisecond="17353" intensity="100"/>
+			<effect type="intensity" startCentisecond="17472" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18340" endCentisecond="18434" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18340" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="R Window W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="5" savedIndex="4">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
+		<channel name="Window W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="5" savedIndex="4">
+			<effect type="intensity" startCentisecond="3260" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4092" endCentisecond="4142" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4142" endCentisecond="4236" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="4717" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5927" endCentisecond="5974" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5974" endCentisecond="6021" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="5780" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6806" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="6997" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6806" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7233" endCentisecond="7307" intensity="100"/>
 			<effect type="intensity" startCentisecond="7425" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7677" endCentisecond="7709" intensity="100"/>
 			<effect type="intensity" startCentisecond="7774" endCentisecond="7806" intensity="100"/>
-			<effect type="intensity" startCentisecond="7871" endCentisecond="7928" intensity="100"/>
+			<effect type="intensity" startCentisecond="7871" endCentisecond="7894" intensity="100"/>
 			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
-			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
 			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8642" endCentisecond="8673" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8673" endCentisecond="8905" startIntensity="100" endIntensity="0"/>
@@ -383,81 +262,49 @@
 			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12533" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13335" intensity="20"/>
-			<effect type="intensity" startCentisecond="13351" endCentisecond="13367" intensity="20"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13431" intensity="30"/>
-			<effect type="intensity" startCentisecond="13447" endCentisecond="13464" intensity="30"/>
-			<effect type="intensity" startCentisecond="13496" endCentisecond="13528" intensity="40"/>
-			<effect type="intensity" startCentisecond="13544" endCentisecond="13560" intensity="40"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13624" intensity="50"/>
-			<effect type="intensity" startCentisecond="13640" endCentisecond="13656" intensity="50"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13720" intensity="60"/>
-			<effect type="intensity" startCentisecond="13736" endCentisecond="13752" intensity="60"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13816" intensity="70"/>
-			<effect type="intensity" startCentisecond="13832" endCentisecond="13849" intensity="70"/>
-			<effect type="intensity" startCentisecond="13881" endCentisecond="13913" intensity="80"/>
-			<effect type="intensity" startCentisecond="13929" endCentisecond="13945" intensity="80"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14009" intensity="90"/>
-			<effect type="intensity" startCentisecond="14025" endCentisecond="14041" intensity="90"/>
+			<effect type="intensity" startCentisecond="13496" endCentisecond="13881" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="13881" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14466" endCentisecond="14485" intensity="100"/>
 			<effect type="intensity" startCentisecond="14591" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14665" endCentisecond="14684" intensity="100"/>
 			<effect type="intensity" startCentisecond="14790" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14951" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15247" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15439" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16017" endCentisecond="16036" intensity="100"/>
-			<effect type="intensity" startCentisecond="16142" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16216" endCentisecond="16235" intensity="100"/>
-			<effect type="intensity" startCentisecond="16341" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14951" endCentisecond="15134" intensity="100"/>
+			<effect type="intensity" startCentisecond="15247" endCentisecond="15324" intensity="100"/>
+			<effect type="intensity" startCentisecond="15439" endCentisecond="15518" intensity="100"/>
+			<effect type="intensity" startCentisecond="15539" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16082" endCentisecond="16115" intensity="100"/>
+			<effect type="intensity" startCentisecond="16213" endCentisecond="16245" intensity="100"/>
+			<effect type="intensity" startCentisecond="16310" endCentisecond="16342" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16798" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16992" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17186" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17380" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16798" endCentisecond="16868" intensity="100"/>
+			<effect type="intensity" startCentisecond="16992" endCentisecond="17062" intensity="100"/>
+			<effect type="intensity" startCentisecond="17186" endCentisecond="17256" intensity="100"/>
+			<effect type="intensity" startCentisecond="17380" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="17477" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="R Window R" color="255" centiseconds="20621" deviceType="LOR" unit="1" circuit="6" savedIndex="5">
+		<channel name="Window R" color="255" centiseconds="20621" deviceType="LOR" unit="1" circuit="6" savedIndex="5">
 			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3942" endCentisecond="3994" startIntensity="100" endIntensity="0"/>
+			<effect type="twinkle" startCentisecond="4042" endCentisecond="4430" intensity="100"/>
 			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4862" endCentisecond="4911" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4911" endCentisecond="5005" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6021" endCentisecond="6067" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6067" endCentisecond="6117" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="5880" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="6997" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7329" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7613" endCentisecond="7645" intensity="100"/>
 			<effect type="intensity" startCentisecond="7709" endCentisecond="7741" intensity="100"/>
 			<effect type="intensity" startCentisecond="7806" endCentisecond="7838" intensity="100"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
-			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
 			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
-			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8673" endCentisecond="8706" intensity="100"/>
 			<effect type="intensity" startCentisecond="8740" endCentisecond="8773" intensity="100"/>
@@ -473,46 +320,45 @@
 			<effect type="intensity" startCentisecond="12116" endCentisecond="12149" intensity="100"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12472" intensity="100"/>
 			<effect type="intensity" startCentisecond="12507" endCentisecond="12533" intensity="100"/>
-			<effect type="intensity" startCentisecond="13335" endCentisecond="13351" intensity="20"/>
-			<effect type="intensity" startCentisecond="13431" endCentisecond="13447" intensity="30"/>
-			<effect type="intensity" startCentisecond="13528" endCentisecond="13544" intensity="40"/>
-			<effect type="intensity" startCentisecond="13624" endCentisecond="13640" intensity="50"/>
-			<effect type="intensity" startCentisecond="13720" endCentisecond="13736" intensity="60"/>
-			<effect type="intensity" startCentisecond="13816" endCentisecond="13832" intensity="70"/>
-			<effect type="intensity" startCentisecond="13913" endCentisecond="13929" intensity="80"/>
-			<effect type="intensity" startCentisecond="14009" endCentisecond="14025" intensity="90"/>
+			<effect type="intensity" startCentisecond="12918" endCentisecond="13303" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="13303" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14492" endCentisecond="14658" intensity="100"/>
+			<effect type="intensity" startCentisecond="14691" endCentisecond="14856" intensity="100"/>
+			<effect type="intensity" startCentisecond="15539" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16049" endCentisecond="16082" intensity="100"/>
+			<effect type="intensity" startCentisecond="16147" endCentisecond="16180" intensity="100"/>
+			<effect type="intensity" startCentisecond="16245" endCentisecond="16278" intensity="100"/>
+			<effect type="intensity" startCentisecond="16342" endCentisecond="16375" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16895" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17089" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17283" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17477" endCentisecond="17547" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16895" endCentisecond="16965" intensity="100"/>
+			<effect type="intensity" startCentisecond="17089" endCentisecond="17159" intensity="100"/>
+			<effect type="intensity" startCentisecond="17283" endCentisecond="17353" intensity="100"/>
+			<effect type="intensity" startCentisecond="17477" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="R Window G" color="65280" centiseconds="20621" deviceType="LOR" unit="1" circuit="7" savedIndex="6">
+		<channel name="Window G" color="65280" centiseconds="20621" deviceType="LOR" unit="1" circuit="7" savedIndex="6">
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
+			<effect type="twinkle" startCentisecond="4811" endCentisecond="5199" intensity="100"/>
 			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="6167" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7137" endCentisecond="7211" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="7645" endCentisecond="7677" intensity="100"/>
 			<effect type="intensity" startCentisecond="7741" endCentisecond="7774" intensity="100"/>
 			<effect type="intensity" startCentisecond="7838" endCentisecond="7871" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" intensity="100"/>
 			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8706" endCentisecond="8740" intensity="100"/>
 			<effect type="intensity" startCentisecond="8773" endCentisecond="8806" intensity="100"/>
@@ -524,73 +370,49 @@
 			<effect type="intensity" startCentisecond="10798" endCentisecond="11179" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12082" endCentisecond="12116" intensity="100"/>
 			<effect type="intensity" startCentisecond="12472" endCentisecond="12507" intensity="100"/>
-			<effect type="intensity" startCentisecond="13367" endCentisecond="13399" intensity="20"/>
-			<effect type="intensity" startCentisecond="13464" endCentisecond="13496" intensity="30"/>
-			<effect type="intensity" startCentisecond="13560" endCentisecond="13592" intensity="40"/>
-			<effect type="intensity" startCentisecond="13656" endCentisecond="13688" intensity="50"/>
-			<effect type="intensity" startCentisecond="13752" endCentisecond="13784" intensity="60"/>
-			<effect type="intensity" startCentisecond="13849" endCentisecond="13881" intensity="70"/>
-			<effect type="intensity" startCentisecond="13945" endCentisecond="13977" intensity="80"/>
-			<effect type="intensity" startCentisecond="14041" endCentisecond="14073" intensity="90"/>
+			<effect type="intensity" startCentisecond="13207" endCentisecond="13496" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="13496" endCentisecond="14073" intensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14492" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14691" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15155" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15342" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16043" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16242" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="15155" endCentisecond="15229" intensity="100"/>
+			<effect type="intensity" startCentisecond="15342" endCentisecond="15422" intensity="100"/>
+			<effect type="intensity" startCentisecond="15539" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16016" endCentisecond="16049" intensity="100"/>
+			<effect type="intensity" startCentisecond="16180" endCentisecond="16213" intensity="100"/>
+			<effect type="intensity" startCentisecond="16278" endCentisecond="16310" intensity="100"/>
 			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="17477" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="RIGHT Bush W/Light Pole" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="8" savedIndex="7">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
+		<channel name="Bush W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="8" savedIndex="7">
+			<effect type="intensity" startCentisecond="3260" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4189" endCentisecond="4236" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4236" endCentisecond="4330" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3942" endCentisecond="3994" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="4717" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="6261" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6837" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7064" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7226" endCentisecond="7307" intensity="100"/>
 			<effect type="intensity" startCentisecond="7418" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7613" endCentisecond="7645" intensity="100"/>
-			<effect type="intensity" startCentisecond="7677" endCentisecond="7709" intensity="100"/>
-			<effect type="intensity" startCentisecond="7741" endCentisecond="7774" intensity="100"/>
-			<effect type="intensity" startCentisecond="7806" endCentisecond="7838" intensity="100"/>
-			<effect type="intensity" startCentisecond="7871" endCentisecond="7894" intensity="100"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
-			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
-			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
-			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8323" intensity="100"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="8291" endCentisecond="8323" intensity="100"/>
 			<effect type="intensity" startCentisecond="8356" endCentisecond="8388" intensity="100"/>
 			<effect type="intensity" startCentisecond="8420" endCentisecond="8453" intensity="100"/>
 			<effect type="intensity" startCentisecond="8485" endCentisecond="8516" intensity="100"/>
@@ -606,90 +428,47 @@
 			<effect type="intensity" startCentisecond="9835" endCentisecond="10222" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10410" endCentisecond="10798" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="10798" endCentisecond="11179" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="11760" endCentisecond="11854" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="11854" endCentisecond="11953" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="11953" endCentisecond="12049" startIntensity="100" endIntensity="25"/>
 			<effect type="intensity" startCentisecond="12049" endCentisecond="12082" intensity="100"/>
 			<effect type="intensity" startCentisecond="12116" endCentisecond="12149" intensity="100"/>
-			<effect type="intensity" startCentisecond="12149" endCentisecond="12244" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="25"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12472" intensity="100"/>
 			<effect type="intensity" startCentisecond="12507" endCentisecond="12533" intensity="100"/>
-			<effect type="intensity" startCentisecond="12918" endCentisecond="13014" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13014" endCentisecond="13207" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13207" endCentisecond="13303" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13784" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13977" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14073" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="13688" endCentisecond="14073" startIntensity="0" endIntensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14459" endCentisecond="14492" intensity="100"/>
-			<effect type="intensity" startCentisecond="14558" endCentisecond="14691" intensity="100"/>
-			<effect type="intensity" startCentisecond="14757" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14944" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15240" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15434" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15534" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16010" endCentisecond="16043" intensity="100"/>
-			<effect type="intensity" startCentisecond="16109" endCentisecond="16242" intensity="100"/>
-			<effect type="intensity" startCentisecond="16308" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14944" endCentisecond="15134" intensity="100"/>
+			<effect type="intensity" startCentisecond="15240" endCentisecond="15324" intensity="100"/>
+			<effect type="intensity" startCentisecond="15434" endCentisecond="15518" intensity="100"/>
+			<effect type="intensity" startCentisecond="15534" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16115" endCentisecond="16147" intensity="100"/>
+			<effect type="intensity" startCentisecond="16342" endCentisecond="16375" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16788" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16982" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17176" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17370" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16788" endCentisecond="16868" intensity="100"/>
+			<effect type="intensity" startCentisecond="16982" endCentisecond="17062" intensity="100"/>
+			<effect type="intensity" startCentisecond="17176" endCentisecond="17256" intensity="100"/>
+			<effect type="intensity" startCentisecond="17370" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="17472" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18434" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="RIGHT Bush M" color="13531551" centiseconds="20621" deviceType="LOR" unit="1" circuit="9" savedIndex="8">
-			<effect type="intensity" startCentisecond="69" endCentisecond="354" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="354" endCentisecond="651" intensity="50"/>
-			<effect type="intensity" startCentisecond="651" endCentisecond="807" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="807" endCentisecond="1094" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1094" endCentisecond="1382" intensity="50"/>
-			<effect type="intensity" startCentisecond="1382" endCentisecond="1532" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="1532" endCentisecond="1827" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1827" endCentisecond="2264" intensity="50"/>
-			<effect type="intensity" startCentisecond="2264" endCentisecond="2414" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="2414" endCentisecond="2564" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="25" endIntensity="100"/>
+		<channel name="Bush M" color="13531551" centiseconds="20621" deviceType="LOR" unit="1" circuit="9" savedIndex="8">
+			<effect type="intensity" startCentisecond="1238" endCentisecond="1827" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1827" endCentisecond="2120" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="2120" endCentisecond="2264" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="2264" endCentisecond="2564" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="2722" endCentisecond="3137" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4958" endCentisecond="5005" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5005" endCentisecond="5105" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="twinkle" startCentisecond="4042" endCentisecond="4430" intensity="100"/>
+			<effect type="twinkle" startCentisecond="4811" endCentisecond="5199" intensity="100"/>
+			<effect type="intensity" startCentisecond="6261" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6837" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="7031" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
-			<effect type="intensity" startCentisecond="7130" endCentisecond="7211" intensity="100"/>
+			<effect type="intensity" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="6964" endCentisecond="7211" intensity="100"/>
 			<effect type="intensity" startCentisecond="7322" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7645" endCentisecond="7677" intensity="100"/>
-			<effect type="intensity" startCentisecond="7709" endCentisecond="7741" intensity="100"/>
-			<effect type="intensity" startCentisecond="7774" endCentisecond="7806" intensity="100"/>
-			<effect type="intensity" startCentisecond="7838" endCentisecond="7871" intensity="100"/>
-			<effect type="intensity" startCentisecond="7894" endCentisecond="7928" intensity="100"/>
-			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
-			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
-			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="8323" endCentisecond="8356" intensity="100"/>
 			<effect type="intensity" startCentisecond="8388" endCentisecond="8420" intensity="100"/>
 			<effect type="intensity" startCentisecond="8453" endCentisecond="8485" intensity="100"/>
@@ -709,81 +488,51 @@
 			<effect type="intensity" startCentisecond="11379" endCentisecond="11760" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12082" endCentisecond="12116" intensity="100"/>
 			<effect type="intensity" startCentisecond="12472" endCentisecond="12507" intensity="100"/>
-			<effect type="intensity" startCentisecond="12533" endCentisecond="12629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12629" endCentisecond="12822" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="12822" endCentisecond="12918" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13399" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13592" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13688" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="13688" endCentisecond="14073" startIntensity="0" endIntensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14459" endCentisecond="14624" intensity="100"/>
-			<effect type="intensity" startCentisecond="14624" endCentisecond="14658" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14658" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15148" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15337" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15534" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16010" endCentisecond="16175" intensity="100"/>
-			<effect type="intensity" startCentisecond="16175" endCentisecond="16209" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16209" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="15148" endCentisecond="15229" intensity="100"/>
+			<effect type="intensity" startCentisecond="15337" endCentisecond="15422" intensity="100"/>
+			<effect type="intensity" startCentisecond="15534" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16049" endCentisecond="16082" intensity="100"/>
+			<effect type="intensity" startCentisecond="16180" endCentisecond="16213" intensity="100"/>
+			<effect type="intensity" startCentisecond="16278" endCentisecond="16310" intensity="100"/>
 			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16885" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17079" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17273" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17467" endCentisecond="17547" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16885" endCentisecond="16965" intensity="100"/>
+			<effect type="intensity" startCentisecond="17079" endCentisecond="17159" intensity="100"/>
+			<effect type="intensity" startCentisecond="17273" endCentisecond="17353" intensity="100"/>
+			<effect type="intensity" startCentisecond="17467" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18340" endCentisecond="18434" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18340" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="Left Bush W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="10" savedIndex="9">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
+		<channel name="Light Pole" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="10" savedIndex="9">
+			<effect type="intensity" startCentisecond="3260" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4189" endCentisecond="4236" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4236" endCentisecond="4330" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="3942" endCentisecond="3994" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="4717" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="6261" endCentisecond="6361" intensity="100"/>
 			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
+			<effect type="intensity" startCentisecond="6837" endCentisecond="6922" intensity="100"/>
+			<effect type="intensity" startCentisecond="7064" endCentisecond="7130" intensity="100"/>
 			<effect type="intensity" startCentisecond="7226" endCentisecond="7307" intensity="100"/>
 			<effect type="intensity" startCentisecond="7418" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7613" endCentisecond="7645" intensity="100"/>
-			<effect type="intensity" startCentisecond="7677" endCentisecond="7709" intensity="100"/>
-			<effect type="intensity" startCentisecond="7741" endCentisecond="7774" intensity="100"/>
-			<effect type="intensity" startCentisecond="7806" endCentisecond="7838" intensity="100"/>
-			<effect type="intensity" startCentisecond="7871" endCentisecond="7894" intensity="100"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
-			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
-			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
-			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8323" intensity="100"/>
+			<effect type="intensity" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="8291" endCentisecond="8323" intensity="100"/>
 			<effect type="intensity" startCentisecond="8356" endCentisecond="8388" intensity="100"/>
 			<effect type="intensity" startCentisecond="8420" endCentisecond="8453" intensity="100"/>
 			<effect type="intensity" startCentisecond="8485" endCentisecond="8516" intensity="100"/>
@@ -799,359 +548,38 @@
 			<effect type="intensity" startCentisecond="9835" endCentisecond="10222" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="10410" endCentisecond="10798" startIntensity="0" endIntensity="100"/>
 			<effect type="intensity" startCentisecond="10798" endCentisecond="11179" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="11760" endCentisecond="11854" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="11854" endCentisecond="11953" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="11953" endCentisecond="12049" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12049" endCentisecond="12082" intensity="100"/>
-			<effect type="intensity" startCentisecond="12116" endCentisecond="12149" intensity="100"/>
-			<effect type="intensity" startCentisecond="12149" endCentisecond="12244" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="12438" endCentisecond="12472" intensity="100"/>
-			<effect type="intensity" startCentisecond="12507" endCentisecond="12533" intensity="100"/>
-			<effect type="intensity" startCentisecond="12918" endCentisecond="13014" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13014" endCentisecond="13207" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13207" endCentisecond="13303" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13784" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13977" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14073" startIntensity="50" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14459" endCentisecond="14492" intensity="100"/>
-			<effect type="intensity" startCentisecond="14558" endCentisecond="14691" intensity="100"/>
-			<effect type="intensity" startCentisecond="14757" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14944" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15240" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15434" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15534" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16010" endCentisecond="16043" intensity="100"/>
-			<effect type="intensity" startCentisecond="16109" endCentisecond="16242" intensity="100"/>
-			<effect type="intensity" startCentisecond="16308" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16788" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16982" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17176" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17370" endCentisecond="17450" intensity="100"/>
-			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
-			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
-		</channel>
-		<channel name="Left Bush M" color="16711808" centiseconds="20621" deviceType="LOR" unit="1" circuit="11" savedIndex="10">
-			<effect type="intensity" startCentisecond="69" endCentisecond="354" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="354" endCentisecond="651" intensity="50"/>
-			<effect type="intensity" startCentisecond="651" endCentisecond="807" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="807" endCentisecond="1094" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1094" endCentisecond="1382" intensity="50"/>
-			<effect type="intensity" startCentisecond="1382" endCentisecond="1532" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="1532" endCentisecond="1827" startIntensity="100" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="1827" endCentisecond="2264" intensity="50"/>
-			<effect type="intensity" startCentisecond="2264" endCentisecond="2414" startIntensity="50" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="2414" endCentisecond="2564" startIntensity="100" endIntensity="25"/>
-			<effect type="intensity" startCentisecond="2564" endCentisecond="2722" startIntensity="25" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="2722" endCentisecond="3137" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4958" endCentisecond="5005" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5005" endCentisecond="5105" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6837" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="7031" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
-			<effect type="intensity" startCentisecond="7130" endCentisecond="7211" intensity="100"/>
-			<effect type="intensity" startCentisecond="7322" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7645" endCentisecond="7677" intensity="100"/>
-			<effect type="intensity" startCentisecond="7709" endCentisecond="7741" intensity="100"/>
-			<effect type="intensity" startCentisecond="7774" endCentisecond="7806" intensity="100"/>
-			<effect type="intensity" startCentisecond="7838" endCentisecond="7871" intensity="100"/>
-			<effect type="intensity" startCentisecond="7894" endCentisecond="7928" intensity="100"/>
-			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
-			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
-			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
-			<effect type="intensity" startCentisecond="8323" endCentisecond="8356" intensity="100"/>
-			<effect type="intensity" startCentisecond="8388" endCentisecond="8420" intensity="100"/>
-			<effect type="intensity" startCentisecond="8453" endCentisecond="8485" intensity="100"/>
-			<effect type="intensity" startCentisecond="8516" endCentisecond="8548" intensity="100"/>
-			<effect type="intensity" startCentisecond="8579" endCentisecond="8610" intensity="100"/>
-			<effect type="intensity" startCentisecond="8642" endCentisecond="8673" intensity="100"/>
-			<effect type="intensity" startCentisecond="8706" endCentisecond="8740" intensity="100"/>
-			<effect type="intensity" startCentisecond="8773" endCentisecond="8806" intensity="100"/>
-			<effect type="intensity" startCentisecond="8840" endCentisecond="8873" intensity="100"/>
-			<effect type="intensity" startCentisecond="8905" endCentisecond="8937" intensity="100"/>
-			<effect type="intensity" startCentisecond="8969" endCentisecond="9002" intensity="100"/>
-			<effect type="intensity" startCentisecond="9034" endCentisecond="9066" intensity="100"/>
-			<effect type="intensity" startCentisecond="9066" endCentisecond="9454" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="9835" endCentisecond="10222" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="10222" endCentisecond="10604" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="10985" endCentisecond="11379" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="11379" endCentisecond="11760" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12082" endCentisecond="12116" intensity="100"/>
-			<effect type="intensity" startCentisecond="12472" endCentisecond="12507" intensity="100"/>
-			<effect type="intensity" startCentisecond="12533" endCentisecond="12629" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12629" endCentisecond="12822" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="12822" endCentisecond="12918" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13399" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13592" startIntensity="0" endIntensity="50"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13688" startIntensity="50" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14459" endCentisecond="14624" intensity="100"/>
-			<effect type="intensity" startCentisecond="14624" endCentisecond="14658" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14658" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15148" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15337" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15534" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16010" endCentisecond="16175" intensity="100"/>
-			<effect type="intensity" startCentisecond="16175" endCentisecond="16209" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16209" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16885" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17079" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17273" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17467" endCentisecond="17547" intensity="100"/>
-			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18340" endCentisecond="18434" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18434" endCentisecond="18528" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18528" endCentisecond="18627" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
-			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
-		</channel>
-		<channel name="L Window W" color="16777215" centiseconds="20621" deviceType="LOR" unit="1" circuit="12" savedIndex="11">
-			<effect type="intensity" startCentisecond="3258" endCentisecond="3311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3555" endCentisecond="3605" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3849" endCentisecond="3896" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4092" endCentisecond="4142" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4142" endCentisecond="4236" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="4330" endCentisecond="4430" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4430" endCentisecond="4477" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4718" endCentisecond="4764" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5199" endCentisecond="5249" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5486" endCentisecond="5536" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5927" endCentisecond="5974" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="5974" endCentisecond="6021" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6117" endCentisecond="6167" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6167" endCentisecond="6214" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="intensity" startCentisecond="6806" endCentisecond="6900" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="intensity" startCentisecond="6997" endCentisecond="7097" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
-			<effect type="intensity" startCentisecond="7233" endCentisecond="7307" intensity="100"/>
-			<effect type="intensity" startCentisecond="7425" endCentisecond="7499" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7677" endCentisecond="7709" intensity="100"/>
-			<effect type="intensity" startCentisecond="7774" endCentisecond="7806" intensity="100"/>
-			<effect type="intensity" startCentisecond="7871" endCentisecond="7928" intensity="100"/>
-			<effect type="intensity" startCentisecond="7961" endCentisecond="7995" intensity="100"/>
-			<effect type="intensity" startCentisecond="8029" endCentisecond="8062" intensity="100"/>
-			<effect type="intensity" startCentisecond="8096" endCentisecond="8129" intensity="100"/>
-			<effect type="intensity" startCentisecond="8161" endCentisecond="8194" intensity="100"/>
-			<effect type="intensity" startCentisecond="8226" endCentisecond="8259" intensity="100"/>
-			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8642" endCentisecond="8673" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8673" endCentisecond="8905" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="10029" endCentisecond="10410" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="10410" endCentisecond="10798" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="11760" endCentisecond="11854" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="11854" endCentisecond="11953" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="11953" endCentisecond="12049" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12049" endCentisecond="12149" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12149" endCentisecond="12244" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12244" endCentisecond="12339" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12339" endCentisecond="12438" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12438" endCentisecond="12533" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="13303" endCentisecond="13335" intensity="20"/>
-			<effect type="intensity" startCentisecond="13351" endCentisecond="13367" intensity="20"/>
-			<effect type="intensity" startCentisecond="13399" endCentisecond="13431" intensity="30"/>
-			<effect type="intensity" startCentisecond="13447" endCentisecond="13464" intensity="30"/>
-			<effect type="intensity" startCentisecond="13496" endCentisecond="13528" intensity="40"/>
-			<effect type="intensity" startCentisecond="13544" endCentisecond="13560" intensity="40"/>
-			<effect type="intensity" startCentisecond="13592" endCentisecond="13624" intensity="50"/>
-			<effect type="intensity" startCentisecond="13640" endCentisecond="13656" intensity="50"/>
-			<effect type="intensity" startCentisecond="13688" endCentisecond="13720" intensity="60"/>
-			<effect type="intensity" startCentisecond="13736" endCentisecond="13752" intensity="60"/>
-			<effect type="intensity" startCentisecond="13784" endCentisecond="13816" intensity="70"/>
-			<effect type="intensity" startCentisecond="13832" endCentisecond="13849" intensity="70"/>
-			<effect type="intensity" startCentisecond="13881" endCentisecond="13913" intensity="80"/>
-			<effect type="intensity" startCentisecond="13929" endCentisecond="13945" intensity="80"/>
-			<effect type="intensity" startCentisecond="13977" endCentisecond="14009" intensity="90"/>
-			<effect type="intensity" startCentisecond="14025" endCentisecond="14041" intensity="90"/>
-			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14466" endCentisecond="14485" intensity="100"/>
-			<effect type="intensity" startCentisecond="14591" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14665" endCentisecond="14684" intensity="100"/>
-			<effect type="intensity" startCentisecond="14790" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="14951" endCentisecond="14987" intensity="100"/>
-			<effect type="intensity" startCentisecond="15017" endCentisecond="15100" intensity="100"/>
-			<effect type="intensity" startCentisecond="15100" endCentisecond="15134" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15247" endCentisecond="15324" intensity="50"/>
-			<effect type="intensity" startCentisecond="15439" endCentisecond="15518" intensity="50"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16017" endCentisecond="16036" intensity="100"/>
-			<effect type="intensity" startCentisecond="16142" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16216" endCentisecond="16235" intensity="100"/>
-			<effect type="intensity" startCentisecond="16341" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16798" endCentisecond="16868" intensity="100"/>
-			<effect type="shimmer" startCentisecond="16992" endCentisecond="17062" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17186" endCentisecond="17256" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17380" endCentisecond="17450" intensity="100"/>
-			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
-			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
-		</channel>
-		<channel name="L Window Red" color="255" centiseconds="20621" deviceType="LOR" unit="1" circuit="13" savedIndex="12">
-			<effect type="intensity" startCentisecond="3358" endCentisecond="3413" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3655" endCentisecond="3702" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3942" endCentisecond="3996" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4524" endCentisecond="4571" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4862" endCentisecond="4911" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4911" endCentisecond="5005" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="5105" endCentisecond="5199" startIntensity="50" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5299" endCentisecond="5346" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6021" endCentisecond="6067" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6067" endCentisecond="6117" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6214" endCentisecond="6261" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="6261" endCentisecond="6311" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
-			<effect type="intensity" startCentisecond="7329" endCentisecond="7403" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7613" endCentisecond="7645" intensity="100"/>
-			<effect type="intensity" startCentisecond="7709" endCentisecond="7741" intensity="100"/>
-			<effect type="intensity" startCentisecond="7806" endCentisecond="7838" intensity="100"/>
-			<effect type="intensity" startCentisecond="7928" endCentisecond="7961" intensity="100"/>
-			<effect type="intensity" startCentisecond="7995" endCentisecond="8029" intensity="100"/>
-			<effect type="intensity" startCentisecond="8062" endCentisecond="8096" intensity="100"/>
-			<effect type="intensity" startCentisecond="8129" endCentisecond="8161" intensity="100"/>
-			<effect type="intensity" startCentisecond="8194" endCentisecond="8226" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8673" endCentisecond="8706" intensity="100"/>
-			<effect type="intensity" startCentisecond="8740" endCentisecond="8773" intensity="100"/>
-			<effect type="intensity" startCentisecond="8806" endCentisecond="8840" intensity="100"/>
-			<effect type="intensity" startCentisecond="8873" endCentisecond="8905" intensity="100"/>
-			<effect type="intensity" startCentisecond="8937" endCentisecond="8969" intensity="100"/>
-			<effect type="intensity" startCentisecond="9002" endCentisecond="9034" intensity="100"/>
-			<effect type="intensity" startCentisecond="9454" endCentisecond="9835" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="9835" endCentisecond="10222" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="10985" endCentisecond="11379" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="11379" endCentisecond="11760" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="12049" endCentisecond="12082" intensity="100"/>
 			<effect type="intensity" startCentisecond="12116" endCentisecond="12149" intensity="100"/>
 			<effect type="intensity" startCentisecond="12438" endCentisecond="12472" intensity="100"/>
 			<effect type="intensity" startCentisecond="12507" endCentisecond="12533" intensity="100"/>
-			<effect type="intensity" startCentisecond="13335" endCentisecond="13351" intensity="20"/>
-			<effect type="intensity" startCentisecond="13431" endCentisecond="13447" intensity="30"/>
-			<effect type="intensity" startCentisecond="13528" endCentisecond="13544" intensity="40"/>
-			<effect type="intensity" startCentisecond="13624" endCentisecond="13640" intensity="50"/>
-			<effect type="intensity" startCentisecond="13720" endCentisecond="13736" intensity="60"/>
-			<effect type="intensity" startCentisecond="13816" endCentisecond="13832" intensity="70"/>
-			<effect type="intensity" startCentisecond="13913" endCentisecond="13929" intensity="80"/>
-			<effect type="intensity" startCentisecond="14009" endCentisecond="14025" intensity="90"/>
+			<effect type="intensity" startCentisecond="13688" endCentisecond="14073" startIntensity="0" endIntensity="100"/>
 			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14987" endCentisecond="15017" intensity="100"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16403" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="14944" endCentisecond="15134" intensity="100"/>
+			<effect type="intensity" startCentisecond="15240" endCentisecond="15324" intensity="100"/>
+			<effect type="intensity" startCentisecond="15434" endCentisecond="15518" intensity="100"/>
+			<effect type="intensity" startCentisecond="15534" endCentisecond="15629" intensity="100"/>
+			<effect type="twinkle" startCentisecond="15629" endCentisecond="16016" intensity="100"/>
+			<effect type="intensity" startCentisecond="16115" endCentisecond="16147" intensity="100"/>
+			<effect type="intensity" startCentisecond="16342" endCentisecond="16375" intensity="100"/>
+			<effect type="intensity" startCentisecond="16407" endCentisecond="16455" startIntensity="100" endIntensity="0"/>
 			<effect type="intensity" startCentisecond="16598" endCentisecond="16645" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="shimmer" startCentisecond="16895" endCentisecond="16965" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17089" endCentisecond="17159" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17283" endCentisecond="17353" intensity="100"/>
-			<effect type="shimmer" startCentisecond="17477" endCentisecond="17547" intensity="100"/>
+			<effect type="intensity" startCentisecond="16693" endCentisecond="16740" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="16788" endCentisecond="16868" intensity="100"/>
+			<effect type="intensity" startCentisecond="16982" endCentisecond="17062" intensity="100"/>
+			<effect type="intensity" startCentisecond="17176" endCentisecond="17256" intensity="100"/>
+			<effect type="intensity" startCentisecond="17370" endCentisecond="17450" intensity="100"/>
+			<effect type="intensity" startCentisecond="17472" endCentisecond="17547" intensity="100"/>
 			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="18434" endCentisecond="18717" intensity="100"/>
 			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
 			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
 		</channel>
-		<channel name="L W Green" color="65280" centiseconds="20621" deviceType="LOR" unit="1" circuit="14" savedIndex="13">
-			<effect type="intensity" startCentisecond="3456" endCentisecond="3510" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="3749" endCentisecond="3799" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="4617" endCentisecond="4667" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="5392" endCentisecond="5439" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="6311" endCentisecond="6361" startIntensity="0" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="6361" endCentisecond="6743" intensity="100"/>
-			<effect type="shimmer" startCentisecond="6900" endCentisecond="6922" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7097" endCentisecond="7130" intensity="100"/>
-			<effect type="intensity" startCentisecond="7137" endCentisecond="7211" intensity="100"/>
-			<effect type="shimmer" startCentisecond="7515" endCentisecond="7613" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="7645" endCentisecond="7677" intensity="100"/>
-			<effect type="intensity" startCentisecond="7741" endCentisecond="7774" intensity="100"/>
-			<effect type="intensity" startCentisecond="7838" endCentisecond="7871" intensity="100"/>
-			<effect type="intensity" startCentisecond="8259" endCentisecond="8291" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8291" endCentisecond="8485" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="8706" endCentisecond="8740" intensity="100"/>
-			<effect type="intensity" startCentisecond="8773" endCentisecond="8806" intensity="100"/>
-			<effect type="intensity" startCentisecond="8840" endCentisecond="8873" intensity="100"/>
-			<effect type="intensity" startCentisecond="8905" endCentisecond="8937" intensity="100"/>
-			<effect type="intensity" startCentisecond="8969" endCentisecond="9002" intensity="100"/>
-			<effect type="intensity" startCentisecond="9034" endCentisecond="9066" intensity="100"/>
-			<effect type="intensity" startCentisecond="10410" endCentisecond="10798" startIntensity="0" endIntensity="100"/>
-			<effect type="intensity" startCentisecond="10798" endCentisecond="11179" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="12082" endCentisecond="12116" intensity="100"/>
-			<effect type="intensity" startCentisecond="12472" endCentisecond="12507" intensity="100"/>
-			<effect type="intensity" startCentisecond="13367" endCentisecond="13399" intensity="20"/>
-			<effect type="intensity" startCentisecond="13464" endCentisecond="13496" intensity="30"/>
-			<effect type="intensity" startCentisecond="13560" endCentisecond="13592" intensity="40"/>
-			<effect type="intensity" startCentisecond="13656" endCentisecond="13688" intensity="50"/>
-			<effect type="intensity" startCentisecond="13752" endCentisecond="13784" intensity="60"/>
-			<effect type="intensity" startCentisecond="13849" endCentisecond="13881" intensity="70"/>
-			<effect type="intensity" startCentisecond="13945" endCentisecond="13977" intensity="80"/>
-			<effect type="intensity" startCentisecond="14041" endCentisecond="14073" intensity="90"/>
-			<effect type="twinkle" startCentisecond="14073" endCentisecond="14459" intensity="100"/>
-			<effect type="intensity" startCentisecond="14492" endCentisecond="14658" intensity="100"/>
-			<effect type="intensity" startCentisecond="14691" endCentisecond="14856" intensity="100"/>
-			<effect type="intensity" startCentisecond="14856" endCentisecond="14900" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="15155" endCentisecond="15229" intensity="50"/>
-			<effect type="intensity" startCentisecond="15342" endCentisecond="15422" intensity="50"/>
-			<effect type="intensity" startCentisecond="15539" endCentisecond="15552" intensity="50"/>
-			<effect type="intensity" startCentisecond="15552" endCentisecond="15629" startIntensity="50" endIntensity="100"/>
-			<effect type="twinkle" startCentisecond="15629" endCentisecond="16010" intensity="100"/>
-			<effect type="intensity" startCentisecond="16043" endCentisecond="16209" intensity="100"/>
-			<effect type="intensity" startCentisecond="16242" endCentisecond="16374" intensity="100"/>
-			<effect type="intensity" startCentisecond="16374" endCentisecond="16403" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16502" endCentisecond="16550" startIntensity="100" endIntensity="0"/>
-			<effect type="intensity" startCentisecond="16693" endCentisecond="16767" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="17565" endCentisecond="18340" intensity="100"/>
-			<effect type="intensity" startCentisecond="18627" endCentisecond="18717" startIntensity="100" endIntensity="0"/>
-			<effect type="twinkle" startCentisecond="18717" endCentisecond="19092" intensity="100"/>
-			<effect type="intensity" startCentisecond="19092" endCentisecond="19399" startIntensity="100" endIntensity="0"/>
-		</channel>
-		<channel name="XXXXXXX" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="15" savedIndex="14"/>
-		<channel name="XXXXXXX" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="16" savedIndex="15"/>
+		<channel name="Tree 1" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="11" savedIndex="10"/>
+		<channel name="Tree 3" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="12" savedIndex="11"/>
+		<channel name="Tree 4" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="13" savedIndex="12"/>
+		<channel name="Tree 5" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="14" savedIndex="13"/>
+		<channel name="Unit 01.15" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="15" savedIndex="14"/>
+		<channel name="Unit 01.16" color="12615744" centiseconds="20621" deviceType="LOR" unit="1" circuit="16" savedIndex="15"/>
 	</channels>
 	<timingGrids>
 		<timingGrid saveID="0" type="freeform">
@@ -1177,7 +605,7 @@
 			<timing centisecond="2722"/>
 			<timing centisecond="2942"/>
 			<timing centisecond="3137"/>
-			<timing centisecond="3258"/>
+			<timing centisecond="3260"/>
 			<timing centisecond="3311"/>
 			<timing centisecond="3358"/>
 			<timing centisecond="3413"/>
@@ -1192,11 +620,10 @@
 			<timing centisecond="3849"/>
 			<timing centisecond="3896"/>
 			<timing centisecond="3942"/>
-			<timing centisecond="3996"/>
+			<timing centisecond="3994"/>
 			<timing centisecond="4042"/>
 			<timing centisecond="4092"/>
 			<timing centisecond="4142"/>
-			<timing centisecond="4189"/>
 			<timing centisecond="4236"/>
 			<timing centisecond="4330"/>
 			<timing centisecond="4430"/>
@@ -1205,13 +632,14 @@
 			<timing centisecond="4571"/>
 			<timing centisecond="4617"/>
 			<timing centisecond="4667"/>
-			<timing centisecond="4718"/>
+			<timing centisecond="4717"/>
 			<timing centisecond="4764"/>
 			<timing centisecond="4811"/>
 			<timing centisecond="4862"/>
 			<timing centisecond="4911"/>
 			<timing centisecond="4958"/>
 			<timing centisecond="5005"/>
+			<timing centisecond="5055"/>
 			<timing centisecond="5105"/>
 			<timing centisecond="5152"/>
 			<timing centisecond="5199"/>
@@ -1223,21 +651,13 @@
 			<timing centisecond="5486"/>
 			<timing centisecond="5536"/>
 			<timing centisecond="5586"/>
-			<timing centisecond="5636"/>
 			<timing centisecond="5686"/>
-			<timing centisecond="5733"/>
 			<timing centisecond="5780"/>
-			<timing centisecond="5830"/>
 			<timing centisecond="5880"/>
-			<timing centisecond="5927"/>
 			<timing centisecond="5974"/>
-			<timing centisecond="6021"/>
 			<timing centisecond="6067"/>
-			<timing centisecond="6117"/>
 			<timing centisecond="6167"/>
-			<timing centisecond="6214"/>
 			<timing centisecond="6261"/>
-			<timing centisecond="6311"/>
 			<timing centisecond="6361"/>
 			<timing centisecond="6455"/>
 			<timing centisecond="6549"/>
@@ -1356,86 +776,34 @@
 			<timing centisecond="13111"/>
 			<timing centisecond="13207"/>
 			<timing centisecond="13303"/>
-			<timing centisecond="13319"/>
-			<timing centisecond="13335"/>
-			<timing centisecond="13351"/>
-			<timing centisecond="13367"/>
-			<timing centisecond="13383"/>
 			<timing centisecond="13399"/>
-			<timing centisecond="13415"/>
-			<timing centisecond="13431"/>
-			<timing centisecond="13447"/>
-			<timing centisecond="13464"/>
-			<timing centisecond="13480"/>
 			<timing centisecond="13496"/>
-			<timing centisecond="13512"/>
-			<timing centisecond="13528"/>
-			<timing centisecond="13544"/>
-			<timing centisecond="13560"/>
-			<timing centisecond="13576"/>
 			<timing centisecond="13592"/>
-			<timing centisecond="13608"/>
-			<timing centisecond="13624"/>
-			<timing centisecond="13640"/>
-			<timing centisecond="13656"/>
-			<timing centisecond="13672"/>
 			<timing centisecond="13688"/>
-			<timing centisecond="13704"/>
-			<timing centisecond="13720"/>
-			<timing centisecond="13736"/>
-			<timing centisecond="13752"/>
-			<timing centisecond="13768"/>
 			<timing centisecond="13784"/>
-			<timing centisecond="13800"/>
-			<timing centisecond="13816"/>
-			<timing centisecond="13832"/>
-			<timing centisecond="13849"/>
-			<timing centisecond="13865"/>
 			<timing centisecond="13881"/>
-			<timing centisecond="13897"/>
-			<timing centisecond="13913"/>
-			<timing centisecond="13929"/>
-			<timing centisecond="13945"/>
-			<timing centisecond="13961"/>
 			<timing centisecond="13977"/>
-			<timing centisecond="13993"/>
-			<timing centisecond="14009"/>
-			<timing centisecond="14025"/>
-			<timing centisecond="14041"/>
-			<timing centisecond="14057"/>
 			<timing centisecond="14073"/>
 			<timing centisecond="14179"/>
 			<timing centisecond="14279"/>
 			<timing centisecond="14373"/>
 			<timing centisecond="14459"/>
-			<timing centisecond="14466"/>
-			<timing centisecond="14472"/>
-			<timing centisecond="14479"/>
-			<timing centisecond="14485"/>
 			<timing centisecond="14492"/>
 			<timing centisecond="14525"/>
 			<timing centisecond="14558"/>
 			<timing centisecond="14591"/>
 			<timing centisecond="14624"/>
 			<timing centisecond="14658"/>
-			<timing centisecond="14665"/>
-			<timing centisecond="14671"/>
-			<timing centisecond="14678"/>
-			<timing centisecond="14684"/>
 			<timing centisecond="14691"/>
 			<timing centisecond="14724"/>
 			<timing centisecond="14757"/>
 			<timing centisecond="14790"/>
 			<timing centisecond="14823"/>
 			<timing centisecond="14856"/>
-			<timing centisecond="14900"/>
 			<timing centisecond="14944"/>
 			<timing centisecond="14951"/>
 			<timing centisecond="14957"/>
 			<timing centisecond="14962"/>
-			<timing centisecond="14987"/>
-			<timing centisecond="15017"/>
-			<timing centisecond="15100"/>
 			<timing centisecond="15134"/>
 			<timing centisecond="15148"/>
 			<timing centisecond="15155"/>
@@ -1465,34 +833,26 @@
 			<timing centisecond="15729"/>
 			<timing centisecond="15825"/>
 			<timing centisecond="15926"/>
-			<timing centisecond="16010"/>
-			<timing centisecond="16017"/>
-			<timing centisecond="16023"/>
-			<timing centisecond="16030"/>
-			<timing centisecond="16036"/>
-			<timing centisecond="16043"/>
-			<timing centisecond="16076"/>
-			<timing centisecond="16109"/>
-			<timing centisecond="16142"/>
-			<timing centisecond="16175"/>
-			<timing centisecond="16209"/>
-			<timing centisecond="16216"/>
-			<timing centisecond="16222"/>
-			<timing centisecond="16229"/>
-			<timing centisecond="16235"/>
-			<timing centisecond="16242"/>
-			<timing centisecond="16275"/>
-			<timing centisecond="16308"/>
-			<timing centisecond="16341"/>
-			<timing centisecond="16374"/>
-			<timing centisecond="16403"/>
+			<timing centisecond="16016"/>
+			<timing centisecond="16049"/>
+			<timing centisecond="16082"/>
+			<timing centisecond="16115"/>
+			<timing centisecond="16147"/>
+			<timing centisecond="16180"/>
+			<timing centisecond="16213"/>
+			<timing centisecond="16245"/>
+			<timing centisecond="16278"/>
+			<timing centisecond="16310"/>
+			<timing centisecond="16342"/>
+			<timing centisecond="16375"/>
+			<timing centisecond="16407"/>
 			<timing centisecond="16455"/>
 			<timing centisecond="16502"/>
 			<timing centisecond="16550"/>
 			<timing centisecond="16598"/>
 			<timing centisecond="16645"/>
 			<timing centisecond="16693"/>
-			<timing centisecond="16767"/>
+			<timing centisecond="16740"/>
 			<timing centisecond="16788"/>
 			<timing centisecond="16793"/>
 			<timing centisecond="16798"/>
@@ -1552,7 +912,7 @@
 		</timingGrid>
 	</timingGrids>
 	<tracks>
-		<track totalCentiseconds="20021" timingGrid="0">
+		<track totalCentiseconds="20121" timingGrid="0">
 			<channels>
 				<channel savedIndex="0"/>
 				<channel savedIndex="1"/>
@@ -1863,16 +1223,16 @@
 			<column index="102" channel="1"/>
 		</row>
 		<row index="35">
-			<column index="56" channel="13"/>
-			<column index="57" channel="11"/>
-			<column index="58" channel="12"/>
-			<column index="59" channel="13"/>
-			<column index="60" channel="11"/>
-			<column index="61" channel="12"/>
-			<column index="62" channel="13"/>
-			<column index="63" channel="11"/>
-			<column index="64" channel="12"/>
-			<column index="65" channel="13"/>
+			<column index="56" channel="6"/>
+			<column index="57" channel="4"/>
+			<column index="58" channel="5"/>
+			<column index="59" channel="6"/>
+			<column index="60" channel="4"/>
+			<column index="61" channel="5"/>
+			<column index="62" channel="6"/>
+			<column index="63" channel="4"/>
+			<column index="64" channel="5"/>
+			<column index="65" channel="6"/>
 			<column index="84" channel="2"/>
 			<column index="97" channel="2"/>
 			<column index="103" channel="2"/>
@@ -1909,10 +1269,10 @@
 			<column index="143" channel="0"/>
 		</row>
 		<row index="36">
-			<column index="45" channel="11"/>
-			<column index="46" channel="11"/>
-			<column index="56" channel="12"/>
-			<column index="65" channel="11"/>
+			<column index="45" channel="0"/>
+			<column index="46" channel="0"/>
+			<column index="56" channel="5"/>
+			<column index="65" channel="4"/>
 			<column index="73" channel="2"/>
 			<column index="78" channel="2"/>
 			<column index="81" channel="2"/>
@@ -1928,11 +1288,11 @@
 			<column index="142" channel="0"/>
 		</row>
 		<row index="37">
-			<column index="44" channel="11"/>
-			<column index="45" channel="11"/>
-			<column index="46" channel="12"/>
-			<column index="56" channel="11"/>
-			<column index="65" channel="12"/>
+			<column index="44" channel="0"/>
+			<column index="45" channel="0"/>
+			<column index="46" channel="5"/>
+			<column index="56" channel="4"/>
+			<column index="65" channel="5"/>
 			<column index="71" channel="2"/>
 			<column index="75" channel="3"/>
 			<column index="76" channel="2"/>
@@ -1948,11 +1308,11 @@
 			<column index="142" channel="5"/>
 		</row>
 		<row index="38">
-			<column index="44" channel="12"/>
-			<column index="45" channel="12"/>
-			<column index="46" channel="13"/>
-			<column index="56" channel="13"/>
-			<column index="65" channel="13"/>
+			<column index="44" channel="5"/>
+			<column index="45" channel="5"/>
+			<column index="46" channel="6"/>
+			<column index="56" channel="6"/>
+			<column index="65" channel="6"/>
 			<column index="71" channel="3"/>
 			<column index="81" channel="6"/>
 			<column index="82" channel="4"/>
@@ -1976,15 +1336,15 @@
 			<column index="142" channel="5"/>
 		</row>
 		<row index="39">
-			<column index="44" channel="12"/>
-			<column index="45" channel="13"/>
-			<column index="56" channel="12"/>
-			<column index="65" channel="11"/>
-			<column index="73" channel="13"/>
-			<column index="74" channel="11"/>
-			<column index="75" channel="12"/>
-			<column index="76" channel="13"/>
-			<column index="77" channel="11"/>
+			<column index="44" channel="5"/>
+			<column index="45" channel="6"/>
+			<column index="56" channel="5"/>
+			<column index="65" channel="4"/>
+			<column index="73" channel="6"/>
+			<column index="74" channel="4"/>
+			<column index="75" channel="5"/>
+			<column index="76" channel="6"/>
+			<column index="77" channel="4"/>
 			<column index="81" channel="5"/>
 			<column index="87" channel="4"/>
 			<column index="93" channel="6"/>
@@ -1996,22 +1356,21 @@
 			<column index="143" channel="6"/>
 		</row>
 		<row index="40">
-			<column index="43" channel="13"/>
-			<column index="44" channel="13"/>
-			<column index="45" channel="11"/>
-			<column index="46" channel="11"/>
-			<column index="56" channel="11"/>
-			<column index="65" channel="12"/>
+			<column index="43" channel="6"/>
+			<column index="44" channel="6"/>
+			<column index="45" channel="0"/>
+			<column index="46" channel="0"/>
+			<column index="56" channel="4"/>
+			<column index="65" channel="5"/>
 			<column index="71" channel="2"/>
-			<column index="73" channel="12"/>
-			<column index="77" channel="12"/>
+			<column index="73" channel="5"/>
+			<column index="77" channel="5"/>
 			<column index="81" channel="4"/>
 			<column index="87" channel="5"/>
 			<column index="90" channel="2"/>
 			<column index="93" channel="5"/>
 			<column index="99" channel="6"/>
 			<column index="108" channel="4"/>
-			<column index="110" channel="7"/>
 			<column index="136" channel="6"/>
 			<column index="139" channel="5"/>
 			<column index="140" channel="5"/>
@@ -2019,15 +1378,14 @@
 			<column index="144" channel="0"/>
 		</row>
 		<row index="41">
-			<column index="43" channel="11"/>
-			<column index="44" channel="11"/>
-			<column index="45" channel="11"/>
-			<column index="46" channel="11"/>
-			<column index="56" channel="13"/>
-			<column index="65" channel="13"/>
+			<column index="43" channel="0"/>
+			<column index="44" channel="0"/>
+			<column index="45" channel="0"/>
+			<column index="56" channel="6"/>
+			<column index="65" channel="6"/>
 			<column index="71" channel="3"/>
-			<column index="73" channel="11"/>
-			<column index="77" channel="13"/>
+			<column index="73" channel="4"/>
+			<column index="77" channel="6"/>
 			<column index="78" channel="2"/>
 			<column index="81" channel="6"/>
 			<column index="87" channel="6"/>
@@ -2041,14 +1399,14 @@
 			<column index="144" channel="0"/>
 		</row>
 		<row index="42">
-			<column index="42" channel="11"/>
-			<column index="43" channel="11"/>
-			<column index="45" channel="12"/>
-			<column index="46" channel="12"/>
-			<column index="56" channel="12"/>
-			<column index="65" channel="11"/>
-			<column index="73" channel="13"/>
-			<column index="77" channel="11"/>
+			<column index="42" channel="0"/>
+			<column index="43" channel="0"/>
+			<column index="45" channel="5"/>
+			<column index="46" channel="5"/>
+			<column index="56" channel="5"/>
+			<column index="65" channel="4"/>
+			<column index="73" channel="6"/>
+			<column index="77" channel="4"/>
 			<column index="78" channel="3"/>
 			<column index="81" channel="5"/>
 			<column index="87" channel="4"/>
@@ -2061,18 +1419,16 @@
 			<column index="143" channel="0"/>
 		</row>
 		<row index="43">
-			<column index="44" channel="12"/>
-			<column index="46" channel="13"/>
-			<column index="56" channel="11"/>
-			<column index="65" channel="12"/>
-			<column index="69" channel="10"/>
-			<column index="73" channel="12"/>
-			<column index="77" channel="12"/>
+			<column index="44" channel="5"/>
+			<column index="46" channel="6"/>
+			<column index="56" channel="4"/>
+			<column index="65" channel="5"/>
+			<column index="73" channel="5"/>
+			<column index="77" channel="5"/>
 			<column index="81" channel="4"/>
 			<column index="87" channel="5"/>
 			<column index="93" channel="4"/>
 			<column index="108" channel="4"/>
-			<column index="110" channel="7"/>
 			<column index="136" channel="6"/>
 			<column index="139" channel="6"/>
 			<column index="140" channel="0"/>
@@ -2081,15 +1437,12 @@
 			<column index="143" channel="5"/>
 		</row>
 		<row index="44">
-			<column index="43" channel="12"/>
-			<column index="44" channel="13"/>
-			<column index="45" channel="13"/>
-			<column index="49" channel="9"/>
-			<column index="65" channel="13"/>
-			<column index="67" channel="10"/>
-			<column index="68" channel="9"/>
-			<column index="73" channel="11"/>
-			<column index="77" channel="13"/>
+			<column index="43" channel="5"/>
+			<column index="44" channel="6"/>
+			<column index="45" channel="6"/>
+			<column index="65" channel="6"/>
+			<column index="73" channel="4"/>
+			<column index="77" channel="6"/>
 			<column index="78" channel="2"/>
 			<column index="99" channel="7"/>
 			<column index="101" channel="7"/>
@@ -2100,12 +1453,9 @@
 			<column index="142" channel="5"/>
 		</row>
 		<row index="45">
-			<column index="43" channel="13"/>
-			<column index="44" channel="11"/>
-			<column index="45" channel="11"/>
-			<column index="49" channel="9"/>
-			<column index="55" channel="9"/>
-			<column index="61" channel="9"/>
+			<column index="43" channel="6"/>
+			<column index="44" channel="0"/>
+			<column index="45" channel="0"/>
 			<column index="71" channel="2"/>
 			<column index="78" channel="3"/>
 			<column index="90" channel="2"/>
@@ -2119,11 +1469,8 @@
 			<column index="143" channel="6"/>
 		</row>
 		<row index="46">
-			<column index="43" channel="11"/>
-			<column index="44" channel="11"/>
-			<column index="50" channel="10"/>
-			<column index="57" channel="10"/>
-			<column index="64" channel="9"/>
+			<column index="43" channel="0"/>
+			<column index="44" channel="0"/>
 			<column index="71" channel="3"/>
 			<column index="81" channel="7"/>
 			<column index="82" channel="8"/>
@@ -2133,19 +1480,12 @@
 			<column index="101" channel="8"/>
 			<column index="102" channel="7"/>
 			<column index="108" channel="4"/>
-			<column index="110" channel="7"/>
 			<column index="136" channel="6"/>
 			<column index="139" channel="5"/>
 			<column index="140" channel="5"/>
 			<column index="141" channel="5"/>
 		</row>
 		<row index="47">
-			<column index="48" channel="9"/>
-			<column index="53" channel="9"/>
-			<column index="59" channel="9"/>
-			<column index="61" channel="10"/>
-			<column index="65" channel="10"/>
-			<column index="69" channel="9"/>
 			<column index="79" channel="7"/>
 			<column index="80" channel="8"/>
 			<column index="83" channel="8"/>
@@ -2157,26 +1497,12 @@
 			<column index="143" channel="0"/>
 		</row>
 		<row index="48">
-			<column index="45" channel="10"/>
-			<column index="51" channel="10"/>
-			<column index="56" channel="10"/>
 			<column index="81" channel="7"/>
 			<column index="82" channel="8"/>
 			<column index="101" channel="8"/>
-			<column index="110" channel="7"/>
 			<column index="136" channel="5"/>
 			<column index="142" channel="0"/>
 			<column index="143" channel="0"/>
-		</row>
-		<row index="50">
-			<column index="104" channel="7"/>
-		</row>
-		<row index="51">
-			<column index="102" channel="7"/>
-		</row>
-		<row index="52">
-			<column index="107" channel="7"/>
-			<column index="111" channel="7"/>
 		</row>
 	</animation>
 </sequence>
